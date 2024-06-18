@@ -1,0 +1,7 @@
+Create a setup file that downloads and installs Jenkins
+Create a resource group
+Create a virtual machine with the setup file
+Open port 8080 in order to access Jenkins on the virtual machine
+Connect to the virtual machine via SSH
+Configure a sample Jenkins job based on a sample Java app in GitHub
+Build the sample Jenkins job
